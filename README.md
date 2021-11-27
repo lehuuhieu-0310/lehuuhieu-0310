@@ -3,10 +3,18 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 </p>
-<h3> 🤝🏻 Connect with Me </h3>
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  &nbsp;<a href="https://www.facebook.com/lehuuhieu.0310/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="35" /></a>
-   &nbsp; &nbsp;<a href="mailto:lehuuhieuak@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"  width="35" /></a>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lehuuhieu-1011&show_icons=true&theme=light"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lehuuhieu-1011&layout=compact&langs_count=8&theme=light"/>
+</a>
 </p>
 
-  - Email: [lehuuhieuak@gmail.com](mailto:lehuuhieuak@gmail.com)
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+  <a href="mailto:lehuuhieuak@gmail.com"><img src="https://img.shields.io/badge/-lehuuhieuak@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/lehuuhieu.1011"><img src="https://img.shields.io/badge/-@lehuuhieu.1011-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
